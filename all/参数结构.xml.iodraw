@@ -190,7 +190,7 @@
         <mxCell id="g6f0Xergm3oL33Gz3vOv-60" value="+ 发送纠偏: bool" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g6f0Xergm3oL33Gz3vOv-55">
           <mxGeometry y="108" width="200" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="g6f0Xergm3oL33Gz3vOv-61" value="+ 初定为参数: CorseLocationParam" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g6f0Xergm3oL33Gz3vOv-55">
+        <mxCell id="g6f0Xergm3oL33Gz3vOv-61" value="+ 初定位参数: CorseLocationParam" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g6f0Xergm3oL33Gz3vOv-55">
           <mxGeometry y="136" width="200" height="28" as="geometry" />
         </mxCell>
       </root>
