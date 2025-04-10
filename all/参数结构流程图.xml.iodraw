@@ -71,13 +71,13 @@
           <mxGeometry y="430" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-21" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="410" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-23" value="帧/线" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="260" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-27" value="传统/简易/原材料" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-27" target="WZL1Y7xnvQg9Zmfi2fZV-27">
           <mxGeometry relative="1" as="geometry" />
