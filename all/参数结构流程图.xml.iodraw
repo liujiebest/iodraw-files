@@ -36,7 +36,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-3" target="WZL1Y7xnvQg9Zmfi2fZV-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-3" value="离线" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="369" y="210" width="60" height="40" as="geometry" />
