@@ -28,12 +28,11 @@
             <mxPoint x="700" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-0">
+        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-0" target="WZL1Y7xnvQg9Zmfi2fZV-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="389" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="250" y="140" />
-              <mxPoint x="250" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -44,22 +43,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="340" as="sourcePoint" />
             <mxPoint x="610" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WZL1Y7xnvQg9Zmfi2fZV-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="449" y="320" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="449" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WZL1Y7xnvQg9Zmfi2fZV-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="449" y="320" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="449" y="450" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-36" value="原材料" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
