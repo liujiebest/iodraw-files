@@ -79,6 +79,9 @@
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-47" value="在线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="118" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-51" value="单片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="109" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
