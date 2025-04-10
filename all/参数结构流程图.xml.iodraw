@@ -36,16 +36,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-3" value="离线" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="120" width="60" height="40" as="geometry" />
+          <mxGeometry x="369" y="260" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-5" value="在线" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-7" value="单片" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="20" width="60" height="40" as="geometry" />
+          <mxGeometry x="120" y="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-9" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="230" width="60" height="40" as="geometry" />
+          <mxGeometry x="369" y="390" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
