@@ -28,15 +28,6 @@
             <mxPoint x="700" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="141" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="140" />
-              <mxPoint x="320" y="142" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-0" value="任务模式" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="409" y="100" width="80" height="80" as="geometry" />
         </mxCell>
@@ -79,9 +70,6 @@
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-43" value="建模方式" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="240" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-46" value="单片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="118" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-47" value="在线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="118" width="50" height="30" as="geometry" />
