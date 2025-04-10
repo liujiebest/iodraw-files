@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="449" y="280" as="targetPoint" />
+            <mxPoint x="690" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-48" value="离线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WZL1Y7xnvQg9Zmfi2fZV-4">
@@ -23,7 +23,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-0">
+        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-0" target="WZL1Y7xnvQg9Zmfi2fZV-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="140" as="targetPoint" />
           </mxGeometry>
