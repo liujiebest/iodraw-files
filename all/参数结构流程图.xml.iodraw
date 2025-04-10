@@ -94,7 +94,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-32" target="WZL1Y7xnvQg9Zmfi2fZV-36">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="399" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-32" target="WZL1Y7xnvQg9Zmfi2fZV-39">
           <mxGeometry relative="1" as="geometry">
@@ -106,7 +110,7 @@
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-32" value="建模方式" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="359" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-36" value="传统/简易" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-36" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="430" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-39" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
