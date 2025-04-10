@@ -31,23 +31,19 @@
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WZL1Y7xnvQg9Zmfi2fZV-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="141" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="140" />
+              <mxPoint x="320" y="142" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-0" value="任务模式" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="409" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WZL1Y7xnvQg9Zmfi2fZV-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="141" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WZL1Y7xnvQg9Zmfi2fZV-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="161" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-19" value="帧" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
