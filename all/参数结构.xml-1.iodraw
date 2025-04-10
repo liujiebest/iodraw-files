@@ -36,7 +36,7 @@
           <mxGeometry x="130" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-5" value="在线" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZL1Y7xnvQg9Zmfi2fZV-7" value="单片" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="270" width="120" height="60" as="geometry" />
